@@ -24,8 +24,8 @@ number and figure in the write-up exactly.
 | File | Description |
 |---|---|
 | `sdf_analysis.py` | All numerical work. Produces every table entry and figure. |
-| `SDF_and_the_CAPM.pdf` | Full write-up, 21 pages: proofs, calibration, numerical results, code appendix. |
-| `SDF_and_the_CAPM_slides.pdf` | Ten-slide summary of the argument. |
+| `SDF-and-the-CAPM.pdf` | Full write-up, 21 pages: proofs, calibration, numerical results, code appendix. |
+| `SDF-and-the-CAPM_slides.pdf` | Ten-slide summary of the argument. |
 
 ## Running it
 
